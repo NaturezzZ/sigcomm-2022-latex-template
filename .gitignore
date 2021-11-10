@@ -1,0 +1,10 @@
+.vscode
+.idea
+.DS_Store
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+paper.log
+paper.out
+paper.pdf
+paper.aux
