@@ -1,2 +1,2 @@
-# Latex Template for SIG-CONF 2022
+# Latex Template for SIGCOMM 2022
 
